@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-15.0" y="-15.0">com</node>
+    <node x="-15.0" y="-15.0">images</node>
+    <node x="-15.0" y="-15.0">netscape</node>
+    <node x="-15.0" y="-15.0">org</node>
+    <node x="-15.0" y="-15.0">toolbarButtonGraphics</node>
+    <node x="-15.0" y="-15.0">sun</node>
+    <node x="-15.0" y="-15.0">jdk</node>
+    <node x="-15.0" y="-15.0">META-INF</node>
+    <node x="-15.0" y="-15.0">groovyjarjarasm</node>
+    <node x="-15.0" y="-15.0">java</node>
+    <node x="-15.0" y="-15.0">groovy</node>
+    <node x="-15.0" y="-15.0">javax</node>
+    <node x="-15.0" y="-15.0">uae</node>
+    <node x="-15.0" y="-15.0">groovyjarjarpicocli</node>
+    <node x="-15.0" y="-15.0">groovyjarjarcommonscli</node>
+    <node x="-96.0" y="105.0">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="549.0" y="47.0" />
+  <SelectedNodes>
+    <node>groovyjarjarantlr</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

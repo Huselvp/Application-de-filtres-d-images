@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>uae.mesbahi.houda.ips</OriginalElement>
+  <nodes>
+    <node x="0.0" y="331.0">uae.mesbahi.houda.ips.models</node>
+    <node x="205.0" y="331.0">uae.mesbahi.houda.ips.enums</node>
+    <node x="197.00056306306317" y="1032.0">uae.mesbahi.houda.ips.SocketServer</node>
+    <node x="0.0" y="259.0">uae.mesbahi.houda.ips.services</node>
+    <node x="0.0" y="187.0">uae.mesbahi.houda.ips.interfaces</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="178.0" y="179.0" />
+  <SelectedNodes>
+    <node>uae.mesbahi.houda.ips.interfaces</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

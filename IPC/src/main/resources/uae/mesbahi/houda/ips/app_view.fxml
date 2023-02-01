@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="586.0" prefWidth="998.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uae.mesbahi.houda.ips.controller.IPAppController">
+  <AnchorPane prefHeight="486.0" prefWidth="914.0" VBox.vgrow="ALWAYS">
+    <ImageView fx:id="withoutFilter" fitHeight="382.0" fitWidth="484.0" layoutX="1.0" pickOnBounds="true" preserveRatio="true" />
+    <ImageView fx:id="withFilter" fitHeight="382.0" fitWidth="484.0" layoutX="514.0" pickOnBounds="true" preserveRatio="true" />
+    <Button layoutX="363.0" layoutY="392.0" mnemonicParsing="false" onAction="#onLoadImageClick" prefHeight="25.0" prefWidth="123.0" text="Charger image" />
+    <Button layoutX="14.0" layoutY="447.0" mnemonicParsing="false" onAction="#onSobelButtonClick" prefHeight="31.0" prefWidth="123.0" text="Filtre de Sobel" />
+    <Button layoutX="514.0" layoutY="392.0" mnemonicParsing="false" onAction="#onSaveImageClick" prefHeight="25.0" prefWidth="123.0" text="Sauvegarder image" />
+      <Button layoutX="14.0" layoutY="484.0" mnemonicParsing="false" onAction="#onPrewittButtonClick" prefHeight="31.0" prefWidth="123.0" text="Filtre de Prewitt" />
+      <Button layoutX="168.0" layoutY="447.0" mnemonicParsing="false" onAction="#onGaussianButtonClick" prefHeight="31.0" prefWidth="123.0" text="Filtre Gaussien" />
+      <Button layoutX="168.0" layoutY="484.0" mnemonicParsing="false" onAction="#onMedianButtonClick" prefHeight="31.0" prefWidth="123.0" text="Filtre Median" />
+      <TextArea fx:id="log" editable="false" layoutX="356.0" layoutY="441.0" prefHeight="115.0" prefWidth="627.0" />
+      <Button layoutX="14.0" layoutY="521.0" mnemonicParsing="false" onAction="#onLaplaceButtonClick" prefHeight="31.0" prefWidth="123.0" text="Filtre Laplace" />
+      <Button layoutX="168.0" layoutY="521.0" mnemonicParsing="false" onAction="#onMeanButtonClick" prefHeight="31.0" prefWidth="123.0" text="Filtre Moyen" />
+  </AnchorPane>
+</VBox>

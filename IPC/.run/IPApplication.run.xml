@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="IPApplication" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="uae.mesbahi.houda.ips.IPApplication" />
+    <module name="ipc.main" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="uae.mesbahi.houda.ips.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+      <option name="credential" />
+      <option name="region" />
+      <option name="useCurrentConnection" value="false" />
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

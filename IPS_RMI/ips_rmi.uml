@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>uae.mesbahi.houda.ips</OriginalElement>
+  <nodes>
+    <node x="223.0" y="309.0">uae.mesbahi.houda.ips.models</node>
+    <node x="0.0" y="165.0">uae.mesbahi.houda.ips.controllers</node>
+    <node x="53.13694980694987" y="593.705945945946">uae.mesbahi.houda.ips.RMIServer</node>
+    <node x="0.0" y="309.0">uae.mesbahi.houda.ips.services</node>
+    <node x="0.0" y="237.0">uae.mesbahi.houda.ips.interfaces</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="191.5" y="168.0" />
+  <SelectedNodes>
+    <node>uae.mesbahi.houda.ips.controllers</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
